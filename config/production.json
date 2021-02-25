@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://stone:ngaythu2@cluster0.g9asm.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "Myasdasfasld;asd",
+  "githubSecret": "0cf2efdc12f59cf6f39a405981fd4ef580c61f68",
+  "githubClientId": "398568fdb641fa030d82"
+}

@@ -3,4 +3,247 @@
 !_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
-!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_VERSION	5.8	//
+ACCOUNT_DELETED	client/src/actions/types.js	/^export const ACCOUNT_DELETED = "ACCOUNT_DELETED";$/;"	n
+AUTH_ERROR	client/src/actions/types.js	/^export const AUTH_ERROR = "AUTH_ERROR";$/;"	n
+Account	client/src/actions/profile.js	/^export const deleteAccount = () => async (dispatch) => {$/;"	c
+AddEducation	client/src/components/profile-forms/AddEducation.jsx	/^const AddEducation = ({ addEducation, history }) => {$/;"	c
+AddExperience	client/src/components/profile-forms/AddExperience.jsx	/^const AddExperience = ({ addExperience, history }) => {$/;"	c
+Alert	client/src/actions/alert.js	/^export const setAlert = (msg, alertType, timeout = 5000) => (dispatch) => {$/;"	c
+Alert	client/src/components/layout/Alert.jsx	/^const Alert = ({ alerts }) =>$/;"	c
+App	client/src/App.js	/^function App() {$/;"	f
+AuthToken	client/src/utils/setAuthToken.js	/^const setAuthToken = (token) => {$/;"	c
+CLEAR_PROFILE	client/src/actions/types.js	/^export const CLEAR_PROFILE = "CLEAR_PROFILE";$/;"	n
+Change	client/src/components/auth/Login.jsx	/^            onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/auth/Login.jsx	/^  const onChange = (e) =>$/;"	c
+Change	client/src/components/auth/Register.jsx	/^            onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/auth/Register.jsx	/^  const onChange = (e) =>$/;"	c
+Change	client/src/components/profile-forms/AddEducation.jsx	/^              onChange={() => {$/;"	c
+Change	client/src/components/profile-forms/AddEducation.jsx	/^            onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/profile-forms/AddEducation.jsx	/^          <input value={from} onChange={onChange} type="date" name="from" \/>$/;"	c
+Change	client/src/components/profile-forms/AddEducation.jsx	/^  const onChange = (e) =>$/;"	c
+Change	client/src/components/profile-forms/AddExperience.jsx	/^              onChange={() => {$/;"	c
+Change	client/src/components/profile-forms/AddExperience.jsx	/^            onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/profile-forms/AddExperience.jsx	/^          <input value={from} onChange={onChange} type="date" name="from" \/>$/;"	c
+Change	client/src/components/profile-forms/AddExperience.jsx	/^  const onChange = (e) =>$/;"	c
+Change	client/src/components/profile-forms/CreateProfile.jsx	/^                onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/profile-forms/CreateProfile.jsx	/^            onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/profile-forms/CreateProfile.jsx	/^          <select name="status" value={status} onChange={(e) => onChange(e)}>$/;"	c
+Change	client/src/components/profile-forms/CreateProfile.jsx	/^  const onChange = (e) =>$/;"	c
+Change	client/src/components/profile-forms/EditProfile.jsx	/^                onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/profile-forms/EditProfile.jsx	/^            onChange={(e) => onChange(e)}$/;"	c
+Change	client/src/components/profile-forms/EditProfile.jsx	/^          <select name="status" value={status} onChange={(e) => onChange(e)}>$/;"	c
+Change	client/src/components/profile-forms/EditProfile.jsx	/^  const onChange = (e) =>$/;"	c
+Click	client/src/components/dashboard/Dashboard.jsx	/^            <button className="btn btn-danger" onClick={() => deleteAccount()}>$/;"	c
+Click	client/src/components/dashboard/Education.jsx	/^          onClick={() => deleteEducation(edu._id)}$/;"	c
+Click	client/src/components/dashboard/Experience.jsx	/^          onClick={() => deleteExperience(exp._id)}$/;"	c
+Click	client/src/components/layout/Navbar.jsx	/^        <Link onClick={logout} to="#!">$/;"	c
+Click	client/src/components/profile-forms/CreateProfile.jsx	/^            onClick={() => toggleSocialInputs(!displaySocialInputs)}$/;"	c
+Click	client/src/components/profile-forms/EditProfile.jsx	/^            onClick={() => toggleSocialInputs(!displaySocialInputs)}$/;"	c
+Comment	routes/api/posts.js	/^      const newComment = {$/;"	c
+CreateProfile	client/src/components/profile-forms/CreateProfile.jsx	/^const CreateProfile = ({ createProfile, history }) => {$/;"	c
+CurrentProfile	client/src/actions/profile.js	/^export const getCurrentProfile = () => async (dispatch) => {$/;"	c
+DB	config/db.js	/^const connectDB = async () => {$/;"	c
+DB	server.js	/^const connectDB = require(".\/config\/db");$/;"	c
+Dashboard	client/src/components/dashboard/Dashboard.jsx	/^const Dashboard = ({$/;"	c
+DashboardActions	client/src/components/dashboard/DashboardActions.jsx	/^const DashboardActions = () => {$/;"	c
+EditProfile	client/src/components/profile-forms/EditProfile.jsx	/^const EditProfile = ({$/;"	c
+Edu	routes/api/profile.js	/^    const newEdu = {$/;"	c
+Education	client/src/actions/profile.js	/^export const addEducation = (formData, history) => async (dispatch) => {$/;"	c
+Education	client/src/actions/profile.js	/^export const deleteEducation = (id) => async (dispatch) => {$/;"	c
+Education	client/src/components/dashboard/Education.jsx	/^const Education = ({ education, deleteEducation }) => {$/;"	c
+Exp	routes/api/profile.js	/^    const newExp = {$/;"	c
+Experience	client/src/actions/profile.js	/^export const addExperience = (formData, history) => async (dispatch) => {$/;"	c
+Experience	client/src/actions/profile.js	/^export const deleteExperience = (id) => async (dispatch) => {$/;"	c
+Experience	client/src/components/dashboard/Experience.jsx	/^const Experience = ({ experience, deleteExperience }) => {$/;"	c
+Fields	routes/api/profile.js	/^    const profileFields = {};$/;"	c
+GET_PROFILE	client/src/actions/types.js	/^export const GET_PROFILE = "GET_PROFILE";$/;"	n
+GET_PROFILES	client/src/actions/types.js	/^export const GET_PROFILES = "GET_PROFILES";$/;"	n
+GET_REPOS	client/src/actions/types.js	/^export const GET_REPOS = "GET_REPOS";$/;"	n
+GithubRepos	client/src/actions/profile.js	/^export const getGithubRepos = (username) => async (dispatch) => {$/;"	c
+LOGIN_FAIL	client/src/actions/types.js	/^export const LOGIN_FAIL = "LOGIN_FAIL";$/;"	n
+LOGIN_SUCCESS	client/src/actions/types.js	/^export const LOGIN_SUCCESS = "LOGIN_SUCCESS";$/;"	n
+LOGOUT	client/src/actions/types.js	/^export const LOGOUT = "LOGOUT";$/;"	n
+Landing	client/src/components/layout/Landing.jsx	/^const Landing = ({ isAuthenticated }) => {$/;"	c
+Links	client/src/components/layout/Navbar.jsx	/^  const authLinks = ($/;"	c
+Links	client/src/components/layout/Navbar.jsx	/^  const guestLinks = ($/;"	c
+Login	client/src/components/auth/Login.jsx	/^const Login = ({ login, isAuthenticated }) => {$/;"	c
+Name	client/src/components/layout/Alert.jsx	/^    <div className={`alert alert-${alert.alertType}`} key={alert.id}>$/;"	c
+Navbar	client/src/components/layout/Navbar.jsx	/^const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {$/;"	c
+PROFILE_ERROR	client/src/actions/types.js	/^export const PROFILE_ERROR = "PROFILE_ERROR";$/;"	n
+Post	routes/api/posts.js	/^const Post = require("..\/..\/models\/Post");$/;"	c
+Post	routes/api/profile.js	/^const Post = require("..\/..\/models\/Post");$/;"	c
+PrivateRoute	client/src/components/routing/PrivateRoute.jsx	/^const PrivateRoute = ({$/;"	c
+Profile	client/src/actions/profile.js	/^export const createProfile = (formData, history, edit = false) => async ($/;"	c
+Profile	client/src/components/profile/Profile.jsx	/^const Profile = ({$/;"	c
+Profile	routes/api/posts.js	/^const Profile = require("..\/..\/models\/Profile");$/;"	c
+Profile	routes/api/profile.js	/^const Profile = require("..\/..\/models\/Profile");$/;"	c
+ProfileById	client/src/actions/profile.js	/^export const getProfileById = (userId) => async (dispatch) => {$/;"	c
+ProfileItem	client/src/components/profiles/ProfileItem.jsx	/^const ProfileItem = ({$/;"	c
+ProfileTop	client/src/components/profile/ProfileTop.jsx	/^const ProfileTop = ({$/;"	c
+Profiles	client/src/actions/profile.js	/^export const getProfiles = () => async (dispatch) => {$/;"	c
+Profiles	client/src/components/profiles/Profiles.jsx	/^const Profiles = ({ getProfiles, profile: { profiles, loading } }) => {$/;"	c
+REGISTER_FAIL	client/src/actions/types.js	/^export const REGISTER_FAIL = "REGISTER_FAIL";$/;"	n
+REGISTER_SUCCESS	client/src/actions/types.js	/^export const REGISTER_SUCCESS = "REGISTER_SUCCESS";$/;"	n
+REMOVE_ALERT	client/src/actions/types.js	/^export const REMOVE_ALERT = "REMOVE_ALERT";$/;"	n
+Register	client/src/components/auth/Register.jsx	/^const Register = ({ setAlert, register, isAuthenticated }) => {$/;"	c
+SET_ALERT	client/src/actions/types.js	/^export const SET_ALERT = "SET_ALERT";$/;"	n
+Spinner	client/src/components/layout/Spinner.jsx	/^const Spinner = () => {$/;"	c
+State	client/src/reducers/auth.js	/^const initialState = {$/;"	c
+State	client/src/reducers/profile.js	/^const initialState = {$/;"	c
+State	client/src/store.js	/^const initialState = {};$/;"	c
+StateToProps	client/src/components/auth/Login.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/auth/Register.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/dashboard/Dashboard.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/layout/Alert.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/layout/Landing.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/layout/Navbar.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/profile-forms/EditProfile.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/profile/Profile.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/profiles/Profiles.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+StateToProps	client/src/components/routing/PrivateRoute.jsx	/^const mapStateToProps = (state) => ({$/;"	c
+Submit	client/src/components/auth/Login.jsx	/^        onSubmit={(e) => onSubmit(e)}$/;"	c
+Submit	client/src/components/auth/Login.jsx	/^  const onSubmit = async (e) => {$/;"	c
+Submit	client/src/components/auth/Register.jsx	/^        onSubmit={(e) => onSubmit(e)}$/;"	c
+Submit	client/src/components/auth/Register.jsx	/^  const onSubmit = async (e) => {$/;"	c
+Submit	client/src/components/profile-forms/AddEducation.jsx	/^        onSubmit={(e) => {$/;"	c
+Submit	client/src/components/profile-forms/AddExperience.jsx	/^        onSubmit={(e) => {$/;"	c
+Submit	client/src/components/profile-forms/CreateProfile.jsx	/^      <form onSubmit={(e) => onSubmit(e)} className="form">$/;"	c
+Submit	client/src/components/profile-forms/CreateProfile.jsx	/^  const onSubmit = (e) => {$/;"	c
+Submit	client/src/components/profile-forms/EditProfile.jsx	/^      <form onSubmit={(e) => onSubmit(e)} className="form">$/;"	c
+Submit	client/src/components/profile-forms/EditProfile.jsx	/^  const onSubmit = (e) => {$/;"	c
+Types	client/src/components/auth/Login.jsx	/^Login.propTypes = {$/;"	c
+Types	client/src/components/auth/Register.jsx	/^Register.propTypes = {$/;"	c
+Types	client/src/components/dashboard/Dashboard.jsx	/^Dashboard.propTypes = {$/;"	c
+Types	client/src/components/dashboard/Education.jsx	/^Education.propTypes = {$/;"	c
+Types	client/src/components/dashboard/Experience.jsx	/^Experience.propTypes = {$/;"	c
+Types	client/src/components/layout/Alert.jsx	/^Alert.propTypes = {$/;"	c
+Types	client/src/components/layout/Landing.jsx	/^Landing.propTypes = {$/;"	c
+Types	client/src/components/layout/Navbar.jsx	/^Navbar.propTypes = {$/;"	c
+Types	client/src/components/profile-forms/AddEducation.jsx	/^AddEducation.propTypes = {$/;"	c
+Types	client/src/components/profile-forms/AddExperience.jsx	/^AddExperience.propTypes = {$/;"	c
+Types	client/src/components/profile-forms/CreateProfile.jsx	/^CreateProfile.propTypes = {$/;"	c
+Types	client/src/components/profile-forms/EditProfile.jsx	/^EditProfile.propTypes = {$/;"	c
+Types	client/src/components/profile/Profile.jsx	/^Profile.propTypes = {$/;"	c
+Types	client/src/components/profile/ProfileTop.jsx	/^ProfileTop.propTypes = {$/;"	c
+Types	client/src/components/profiles/ProfileItem.jsx	/^ProfileItem.propTypes = {$/;"	c
+Types	client/src/components/profiles/Profiles.jsx	/^Profiles.propTypes = {$/;"	c
+Types	client/src/components/routing/PrivateRoute.jsx	/^PrivateRoute.propTypes = {$/;"	c
+UPDATE_PROFILE	client/src/actions/types.js	/^export const UPDATE_PROFILE = "UPDATE_PROFILE";$/;"	n
+USER_LOADED	client/src/actions/types.js	/^export const USER_LOADED = "USER_LOADED";$/;"	n
+User	client/src/actions/auth.js	/^export const loadUser = () => async (dispatch) => {$/;"	c
+User	routes/api/auth.js	/^const User = require("..\/..\/models\/User");$/;"	c
+User	routes/api/posts.js	/^const User = require("..\/..\/models\/User");$/;"	c
+User	routes/api/profile.js	/^const User = require("..\/..\/models\/User");$/;"	c
+User	routes/api/users.js	/^const User = require("..\/..\/models\/User");$/;"	c
+auth	client/src/components/dashboard/Dashboard.jsx	/^  auth: { user },$/;"	o
+auth	client/src/components/layout/Navbar.jsx	/^const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {$/;"	o
+auth	client/src/components/routing/PrivateRoute.jsx	/^  auth: { isAuthenticated, loading },$/;"	o
+avatar	models/Post.js	/^      avatar: {$/;"	o
+avatar	models/Post.js	/^  avatar: {$/;"	o
+avatar	models/User.js	/^  avatar: {$/;"	o
+bio	models/Profile.js	/^  bio: {$/;"	o
+catch	client/src/actions/auth.js	/^  } catch (err) {$/;"	f
+catch	client/src/actions/profile.js	/^    } catch (err) {$/;"	f
+catch	client/src/actions/profile.js	/^  } catch (err) {$/;"	f
+catch	config/db.js	/^  } catch (e) {$/;"	f
+catch	middleware/auth.js	/^  } catch (err) {$/;"	f
+catch	routes/api/auth.js	/^    } catch (e) {$/;"	f
+catch	routes/api/auth.js	/^  } catch (err) {$/;"	f
+catch	routes/api/posts.js	/^    } catch (err) {$/;"	f
+catch	routes/api/posts.js	/^  } catch (err) {$/;"	f
+catch	routes/api/profile.js	/^    } catch (err) {$/;"	f
+catch	routes/api/profile.js	/^  } catch (err) {$/;"	f
+catch	routes/api/users.js	/^    } catch (e) {$/;"	f
+company	models/Profile.js	/^      company: {$/;"	o
+company	models/Profile.js	/^  company: {$/;"	o
+current	models/Profile.js	/^      current: {$/;"	o
+date	models/Post.js	/^  date: {$/;"	o
+date	models/Profile.js	/^  date: {$/;"	o
+date	models/User.js	/^  date: {$/;"	o
+degree	models/Profile.js	/^      degree: {$/;"	o
+description	models/Profile.js	/^      description: {$/;"	o
+email	models/User.js	/^  email: {$/;"	o
+error	client/src/reducers/profile.js	/^  error: {},$/;"	o
+exports	middleware/auth.js	/^module.exports = function (req, res, next) {$/;"	f
+facebook	models/Profile.js	/^    facebook: {$/;"	o
+fieldofstudy	models/Profile.js	/^      fieldofstudy: {$/;"	o
+from	models/Profile.js	/^      from: {$/;"	o
+function	client/src/reducers/alert.js	/^export default function (state = initialState, action) {$/;"	f
+function	client/src/reducers/auth.js	/^export default function (state = initialState, action) {$/;"	f
+function	client/src/reducers/profile.js	/^export default function (state = initialState, action) {$/;"	f
+function	middleware/auth.js	/^module.exports = function (req, res, next) {$/;"	f
+githubusername	models/Profile.js	/^  githubusername: {$/;"	o
+headers	client/src/actions/auth.js	/^    headers: {$/;"	o
+headers	client/src/actions/profile.js	/^      headers: {$/;"	o
+headers	routes/api/profile.js	/^      headers: { "user-agent": "node.js" },$/;"	o
+if	client/src/actions/auth.js	/^    if (errors) {$/;"	f
+if	client/src/actions/profile.js	/^    if (!edit) {$/;"	f
+if	client/src/actions/profile.js	/^    if (errors) {$/;"	f
+if	client/src/components/auth/Login.jsx	/^  if (isAuthenticated) {$/;"	f
+if	client/src/components/auth/Register.jsx	/^    if (password !== password2) {$/;"	f
+if	client/src/components/auth/Register.jsx	/^  if (isAuthenticated) {$/;"	f
+if	client/src/components/layout/Landing.jsx	/^  if (isAuthenticated) {$/;"	f
+if	client/src/reportWebVitals.js	/^  if (onPerfEntry && onPerfEntry instanceof Function) {$/;"	f
+if	client/src/utils/setAuthToken.js	/^  if (token) {$/;"	f
+if	routes/api/auth.js	/^      if (!isMatch) {$/;"	f
+if	routes/api/auth.js	/^      if (!user) {$/;"	f
+if	routes/api/profile.js	/^      if (profile) {$/;"	f
+if	routes/api/profile.js	/^    if (err.kind === "ObjectId") {$/;"	f
+if	routes/api/profile.js	/^    if (skills) {$/;"	f
+if	routes/api/users.js	/^      if (user) {$/;"	f
+instagram	models/Profile.js	/^    instagram: {$/;"	o
+linkedin	models/Profile.js	/^    linkedin: {$/;"	o
+location	models/Profile.js	/^      location: {$/;"	o
+location	models/Profile.js	/^  location: {$/;"	o
+name	models/Post.js	/^      name: {$/;"	o
+name	models/Post.js	/^  name: {$/;"	o
+name	models/User.js	/^  name: {$/;"	o
+password	models/User.js	/^  password: {$/;"	o
+payload	client/src/actions/alert.js	/^  dispatch({ type: SET_ALERT, payload: { msg, alertType, id } });$/;"	o
+payload	client/src/actions/profile.js	/^        payload: { msg: err.response.statusText, status: err.response.status },$/;"	o
+payload	client/src/actions/profile.js	/^      payload: { msg: err.response.statusText, status: err.response.status },$/;"	o
+profile	client/src/components/dashboard/Dashboard.jsx	/^  profile: { profile, loading },$/;"	o
+profile	client/src/components/profile-forms/EditProfile.jsx	/^  profile: { profile, loading },$/;"	o
+profile	client/src/components/profile/Profile.jsx	/^  profile: { profile, loading },$/;"	o
+profile	client/src/components/profile/ProfileTop.jsx	/^  profile: {$/;"	o
+profile	client/src/components/profiles/ProfileItem.jsx	/^  profile: {$/;"	o
+profile	client/src/components/profiles/Profiles.jsx	/^const Profiles = ({ getProfiles, profile: { profiles, loading } }) => {$/;"	o
+propTypes	client/src/components/auth/Login.jsx	/^Login.propTypes = {$/;"	o
+propTypes	client/src/components/auth/Register.jsx	/^Register.propTypes = {$/;"	o
+propTypes	client/src/components/dashboard/Dashboard.jsx	/^Dashboard.propTypes = {$/;"	o
+propTypes	client/src/components/dashboard/Education.jsx	/^Education.propTypes = {$/;"	o
+propTypes	client/src/components/dashboard/Experience.jsx	/^Experience.propTypes = {$/;"	o
+propTypes	client/src/components/layout/Alert.jsx	/^Alert.propTypes = {$/;"	o
+propTypes	client/src/components/layout/Landing.jsx	/^Landing.propTypes = {$/;"	o
+propTypes	client/src/components/layout/Navbar.jsx	/^Navbar.propTypes = {$/;"	o
+propTypes	client/src/components/profile-forms/AddEducation.jsx	/^AddEducation.propTypes = {$/;"	o
+propTypes	client/src/components/profile-forms/AddExperience.jsx	/^AddExperience.propTypes = {$/;"	o
+propTypes	client/src/components/profile-forms/CreateProfile.jsx	/^CreateProfile.propTypes = {$/;"	o
+propTypes	client/src/components/profile-forms/EditProfile.jsx	/^EditProfile.propTypes = {$/;"	o
+propTypes	client/src/components/profile/Profile.jsx	/^Profile.propTypes = {$/;"	o
+propTypes	client/src/components/profile/ProfileTop.jsx	/^ProfileTop.propTypes = {$/;"	o
+propTypes	client/src/components/profiles/ProfileItem.jsx	/^ProfileItem.propTypes = {$/;"	o
+propTypes	client/src/components/profiles/Profiles.jsx	/^Profiles.propTypes = {$/;"	o
+propTypes	client/src/components/routing/PrivateRoute.jsx	/^PrivateRoute.propTypes = {$/;"	o
+school	models/Profile.js	/^      school: {$/;"	o
+skills	models/Profile.js	/^  skills: {$/;"	o
+social	models/Profile.js	/^  social: {$/;"	o
+social	routes/api/profile.js	/^    profileFields.social = {};$/;"	o
+status	models/Profile.js	/^  status: {$/;"	o
+switch	client/src/reducers/alert.js	/^  switch (type) {$/;"	f
+switch	client/src/reducers/auth.js	/^  switch (type) {$/;"	f
+switch	client/src/reducers/profile.js	/^  switch (type) {$/;"	f
+text	models/Post.js	/^      text: {$/;"	o
+text	models/Post.js	/^  text: {$/;"	o
+title	models/Profile.js	/^      title: {$/;"	o
+to	models/Profile.js	/^      to: {$/;"	o
+twitter	models/Profile.js	/^    twitter: {$/;"	o
+user	client/src/components/profile/ProfileTop.jsx	/^    user: { name, avatar },$/;"	o
+user	client/src/components/profiles/ProfileItem.jsx	/^    user: { _id, name, avatar },$/;"	o
+user	models/Post.js	/^      user: {$/;"	o
+user	models/Post.js	/^  user: {$/;"	o
+user	models/Profile.js	/^  user: {$/;"	o
+user	routes/api/auth.js	/^        user: {$/;"	o
+user	routes/api/users.js	/^        user: {$/;"	o
+youtube	models/Profile.js	/^    youtube: {$/;"	o

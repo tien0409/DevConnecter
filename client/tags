@@ -1,0 +1,313 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+.alert	src/App.css	/^.alert {$/;"	c
+.alert-danger	src/App.css	/^.alert-danger {$/;"	c
+.alert-dark	src/App.css	/^.alert-dark {$/;"	c
+.alert-light	src/App.css	/^.alert-light {$/;"	c
+.alert-primary	src/App.css	/^.alert-primary {$/;"	c
+.alert-success	src/App.css	/^.alert-success {$/;"	c
+.alert-white	src/App.css	/^.alert-white {$/;"	c
+.badge	src/App.css	/^.badge {$/;"	c
+.badge-danger	src/App.css	/^.badge-danger,$/;"	c
+.badge-dark	src/App.css	/^.badge-dark,$/;"	c
+.badge-light	src/App.css	/^.badge-light {$/;"	c
+.badge-light	src/App.css	/^.badge-light,$/;"	c
+.badge-primary	src/App.css	/^.badge-primary,$/;"	c
+.badge-success	src/App.css	/^.badge-success,$/;"	c
+.badge-white	src/App.css	/^.badge-white,$/;"	c
+.bg-danger	src/App.css	/^.bg-danger,$/;"	c
+.bg-dark	src/App.css	/^.bg-dark,$/;"	c
+.bg-light	src/App.css	/^.bg-light,$/;"	c
+.bg-primary	src/App.css	/^.bg-primary,$/;"	c
+.bg-success	src/App.css	/^.bg-success,$/;"	c
+.bg-white	src/App.css	/^.bg-white,$/;"	c
+.btn	src/App.css	/^.btn {$/;"	c
+.btn	src/App.css	/^.btn:hover {$/;"	c
+.btn-danger	src/App.css	/^.btn-danger,$/;"	c
+.btn-dark	src/App.css	/^.btn-dark,$/;"	c
+.btn-light	src/App.css	/^.btn-light,$/;"	c
+.btn-primary	src/App.css	/^.btn-primary,$/;"	c
+.btn-success	src/App.css	/^.btn-success,$/;"	c
+.btn-white	src/App.css	/^.btn-white,$/;"	c
+.container	src/App.css	/^  .container {$/;"	c
+.container	src/App.css	/^.container {$/;"	c
+.dark-overlay	src/App.css	/^.dark-overlay {$/;"	c
+.dash-buttons	src/App.css	/^  .dash-buttons a {$/;"	c
+.form	src/App.css	/^.form .form-group {$/;"	c
+.form	src/App.css	/^.form .form-text {$/;"	c
+.form	src/App.css	/^.form .social-input i {$/;"	c
+.form	src/App.css	/^.form .social-input i.fa-facebook {$/;"	c
+.form	src/App.css	/^.form .social-input i.fa-instagram {$/;"	c
+.form	src/App.css	/^.form .social-input i.fa-linkedin {$/;"	c
+.form	src/App.css	/^.form .social-input i.fa-twitter {$/;"	c
+.form	src/App.css	/^.form .social-input i.fa-youtube {$/;"	c
+.form	src/App.css	/^.form .social-input {$/;"	c
+.form	src/App.css	/^.form input[type="date"],$/;"	c
+.form	src/App.css	/^.form input[type="email"],$/;"	c
+.form	src/App.css	/^.form input[type="password"],$/;"	c
+.form	src/App.css	/^.form input[type="submit"],$/;"	c
+.form	src/App.css	/^.form input[type="text"],$/;"	c
+.form	src/App.css	/^.form select,$/;"	c
+.form	src/App.css	/^.form textarea {$/;"	c
+.hide-sm	src/App.css	/^  .hide-sm {$/;"	c
+.landing	src/App.css	/^.landing {$/;"	c
+.landing-inner	src/App.css	/^.landing-inner {$/;"	c
+.large	src/App.css	/^  .large {$/;"	c
+.large	src/App.css	/^.large {$/;"	c
+.lead	src/App.css	/^  .lead {$/;"	c
+.lead	src/App.css	/^.lead {$/;"	c
+.line	src/App.css	/^.line {$/;"	c
+.m	src/App.css	/^.m {$/;"	c
+.m-1	src/App.css	/^.m-1 {$/;"	c
+.m-2	src/App.css	/^.m-2 {$/;"	c
+.m-3	src/App.css	/^.m-3 {$/;"	c
+.my	src/App.css	/^.my {$/;"	c
+.my-1	src/App.css	/^.my-1 {$/;"	c
+.my-2	src/App.css	/^.my-2 {$/;"	c
+.my-3	src/App.css	/^.my-3 {$/;"	c
+.navbar	src/App.css	/^  .navbar .welcome {$/;"	c
+.navbar	src/App.css	/^  .navbar h1 {$/;"	c
+.navbar	src/App.css	/^  .navbar ul {$/;"	c
+.navbar	src/App.css	/^  .navbar {$/;"	c
+.navbar	src/App.css	/^.navbar .welcome span {$/;"	c
+.navbar	src/App.css	/^.navbar a {$/;"	c
+.navbar	src/App.css	/^.navbar a:hover {$/;"	c
+.navbar	src/App.css	/^.navbar ul {$/;"	c
+.navbar	src/App.css	/^.navbar {$/;"	c
+.p	src/App.css	/^.p {$/;"	c
+.p-1	src/App.css	/^.p-1 {$/;"	c
+.p-2	src/App.css	/^.p-2 {$/;"	c
+.p-3	src/App.css	/^.p-3 {$/;"	c
+.post	src/App.css	/^  .post a,$/;"	c
+.post	src/App.css	/^  .post button {$/;"	c
+.post	src/App.css	/^  .post {$/;"	c
+.post	src/App.css	/^.post .comment-count {$/;"	c
+.post	src/App.css	/^.post .post-date {$/;"	c
+.post	src/App.css	/^.post > div:first-child {$/;"	c
+.post	src/App.css	/^.post img {$/;"	c
+.post	src/App.css	/^.post {$/;"	c
+.post-form	src/App.css	/^.post-form .post-form-header {$/;"	c
+.profile	src/App.css	/^  .profile img {$/;"	c
+.profile	src/App.css	/^  .profile ul {$/;"	c
+.profile	src/App.css	/^  .profile {$/;"	c
+.profile	src/App.css	/^.profile {$/;"	c
+.profile-about	src/App.css	/^  .profile-about .skills {$/;"	c
+.profile-about	src/App.css	/^.profile-about .skills {$/;"	c
+.profile-about	src/App.css	/^.profile-about {$/;"	c
+.profile-edu	src/App.css	/^.profile-edu > div {$/;"	c
+.profile-edu	src/App.css	/^.profile-edu > div:last-child {$/;"	c
+.profile-edu	src/App.css	/^.profile-edu h2 {$/;"	c
+.profile-edu	src/App.css	/^.profile-edu p {$/;"	c
+.profile-edu	src/App.css	/^.profile-edu {$/;"	c
+.profile-exp	src/App.css	/^.profile-exp > div,$/;"	c
+.profile-exp	src/App.css	/^.profile-exp > div:last-child,$/;"	c
+.profile-exp	src/App.css	/^.profile-exp h2,$/;"	c
+.profile-exp	src/App.css	/^.profile-exp p,$/;"	c
+.profile-exp	src/App.css	/^.profile-exp {$/;"	c
+.profile-github	src/App.css	/^.profile-github .repo > div:first-child {$/;"	c
+.profile-github	src/App.css	/^.profile-github .repo {$/;"	c
+.profile-github	src/App.css	/^.profile-github > div:last-child {$/;"	c
+.profile-github	src/App.css	/^.profile-github {$/;"	c
+.profile-grid	src/App.css	/^  .profile-grid {$/;"	c
+.profile-grid	src/App.css	/^.profile-grid {$/;"	c
+.profile-top	src/App.css	/^  .profile-top img,$/;"	c
+.profile-top	src/App.css	/^.profile-top .icons a {$/;"	c
+.profile-top	src/App.css	/^.profile-top .icons a:hover {$/;"	c
+.profile-top	src/App.css	/^.profile-top img {$/;"	c
+.profile-top	src/App.css	/^.profile-top {$/;"	c
+.py	src/App.css	/^.py {$/;"	c
+.py-1	src/App.css	/^.py-1 {$/;"	c
+.py-2	src/App.css	/^.py-2 {$/;"	c
+.py-3	src/App.css	/^.py-3 {$/;"	c
+.round-img	src/App.css	/^.round-img {$/;"	c
+.table	src/App.css	/^.table td {$/;"	c
+.table	src/App.css	/^.table th {$/;"	c
+.table	src/App.css	/^.table th,$/;"	c
+.text-center	src/App.css	/^.text-center {$/;"	c
+.text-dark	src/App.css	/^.text-dark {$/;"	c
+.text-primary	src/App.css	/^.text-primary {$/;"	c
+.x-large	src/App.css	/^  .x-large {$/;"	c
+.x-large	src/App.css	/^.x-large {$/;"	c
+ACCOUNT_DELETED	src/actions/types.js	/^export const ACCOUNT_DELETED = "ACCOUNT_DELETED";$/;"	E
+AUTH_ERROR	src/actions/types.js	/^export const AUTH_ERROR = "AUTH_ERROR";$/;"	E
+App	src/App.js	/^function App() {$/;"	F
+CLEAR_PROFILE	src/actions/types.js	/^export const CLEAR_PROFILE = "CLEAR_PROFILE";$/;"	E
+GET_PROFILE	src/actions/types.js	/^export const GET_PROFILE = "GET_PROFILE";$/;"	E
+GET_PROFILES	src/actions/types.js	/^export const GET_PROFILES = "GET_PROFILES";$/;"	E
+GET_REPOS	src/actions/types.js	/^export const GET_REPOS = "GET_REPOS";$/;"	E
+LOGIN_FAIL	src/actions/types.js	/^export const LOGIN_FAIL = "LOGIN_FAIL";$/;"	E
+LOGIN_SUCCESS	src/actions/types.js	/^export const LOGIN_SUCCESS = "LOGIN_SUCCESS";$/;"	E
+LOGOUT	src/actions/types.js	/^export const LOGOUT = "LOGOUT";$/;"	E
+PROFILE_ERROR	src/actions/types.js	/^export const PROFILE_ERROR = "PROFILE_ERROR";$/;"	E
+REGISTER_FAIL	src/actions/types.js	/^export const REGISTER_FAIL = "REGISTER_FAIL";$/;"	E
+REGISTER_SUCCESS	src/actions/types.js	/^export const REGISTER_SUCCESS = "REGISTER_SUCCESS";$/;"	E
+REMOVE_ALERT	src/actions/types.js	/^export const REMOVE_ALERT = "REMOVE_ALERT";$/;"	E
+Router	src/App.js	/^import { BrowserRouter as Router, Route, Switch } from "react-router-dom";$/;"	I
+SET_ALERT	src/actions/types.js	/^export const SET_ALERT = "SET_ALERT";$/;"	E
+UPDATE_PROFILE	src/actions/types.js	/^export const UPDATE_PROFILE = "UPDATE_PROFILE";$/;"	E
+USER_LOADED	src/actions/types.js	/^export const USER_LOADED = "USER_LOADED";$/;"	E
+a	src/App.css	/^a {$/;"	t
+addEducation	src/actions/profile.js	/^export const addEducation = (formData, history) => async (dispatch) => {$/;"	E
+addExperience	src/actions/profile.js	/^export const addExperience = (formData, history) => async (dispatch) => {$/;"	E
+alertType	src/actions/alert.js	/^export const setAlert = (msg, alertType, timeout = 5000) => (dispatch) => {$/;"	E
+auth	src/components/dashboard/Dashboard.jsx	/^  auth: { user },$/;"	P
+auth	src/components/routing/PrivateRoute.jsx	/^  auth: { isAuthenticated, loading },$/;"	P
+authLinks	src/components/layout/Navbar.jsx	/^  const authLinks = ($/;"	F
+bio	src/components/profile-forms/CreateProfile.jsx	/^    bio: "",$/;"	P
+bio	src/components/profile-forms/EditProfile.jsx	/^    bio: "",$/;"	P
+body	src/App.css	/^body {$/;"	t
+button	src/App.css	/^button {$/;"	t
+company	src/components/profile-forms/AddExperience.jsx	/^    company: "",$/;"	P
+company	src/components/profile-forms/CreateProfile.jsx	/^    company: "",$/;"	P
+company	src/components/profile-forms/EditProfile.jsx	/^    company: "",$/;"	P
+component	src/components/routing/PrivateRoute.jsx	/^  component: Component,$/;"	P
+config	src/actions/auth.js	/^  const config = {$/;"	O
+config	src/actions/profile.js	/^    const config = {$/;"	O
+createProfile	src/actions/profile.js	/^export const createProfile = (formData, history, edit = false) => async ($/;"	E
+current	src/components/profile-forms/AddEducation.jsx	/^    current: false,$/;"	P
+current	src/components/profile-forms/AddExperience.jsx	/^    current: false,$/;"	P
+degree	src/components/profile-forms/AddEducation.jsx	/^    degree: "",$/;"	P
+deleteAccount	src/actions/profile.js	/^export const deleteAccount = () => async (dispatch) => {$/;"	E
+deleteEducation	src/actions/profile.js	/^export const deleteEducation = (id) => async (dispatch) => {$/;"	E
+deleteExperience	src/actions/profile.js	/^export const deleteExperience = (id) => async (dispatch) => {$/;"	E
+description	src/components/profile-forms/AddEducation.jsx	/^    description: "",$/;"	P
+description	src/components/profile-forms/AddExperience.jsx	/^    description: "",$/;"	P
+edit	src/actions/profile.js	/^export const createProfile = (formData, history, edit = false) => async ($/;"	E
+educations	src/components/dashboard/Education.jsx	/^  const educations = education.map((edu) => ($/;"	F
+email	src/actions/auth.js	/^export const register = ({ name, email, password }) => async (dispatch) => {$/;"	E
+email	src/components/auth/Login.jsx	/^    email: "",$/;"	P
+email	src/components/auth/Register.jsx	/^    email: "",$/;"	P
+error	src/reducers/profile.js	/^        error: payload,$/;"	P
+error	src/reducers/profile.js	/^  error: {},$/;"	P
+experiences	src/components/dashboard/Experience.jsx	/^  const experiences = experience.map((exp) => ($/;"	F
+facebook	src/components/profile-forms/CreateProfile.jsx	/^    facebook: "",$/;"	P
+facebook	src/components/profile-forms/EditProfile.jsx	/^    facebook: "",$/;"	P
+fieldofstudy	src/components/profile-forms/AddEducation.jsx	/^    fieldofstudy: "",$/;"	P
+from	src/components/profile-forms/AddEducation.jsx	/^    from: "",$/;"	P
+from	src/components/profile-forms/AddExperience.jsx	/^    from: "",$/;"	P
+getCurrentProfile	src/actions/profile.js	/^export const getCurrentProfile = () => async (dispatch) => {$/;"	E
+getGithubRepos	src/actions/profile.js	/^export const getGithubRepos = (username) => async (dispatch) => {$/;"	E
+getProfileById	src/actions/profile.js	/^export const getProfileById = (userId) => async (dispatch) => {$/;"	E
+getProfiles	src/actions/profile.js	/^export const getProfiles = () => async (dispatch) => {$/;"	E
+githubusername	src/components/profile-forms/CreateProfile.jsx	/^    githubusername: "",$/;"	P
+githubusername	src/components/profile-forms/EditProfile.jsx	/^    githubusername: "",$/;"	P
+guestLinks	src/components/layout/Navbar.jsx	/^  const guestLinks = ($/;"	F
+headers	src/actions/auth.js	/^    headers: {$/;"	P
+headers	src/actions/profile.js	/^      headers: {$/;"	P
+history	src/actions/profile.js	/^export const addEducation = (formData, history) => async (dispatch) => {$/;"	E
+history	src/actions/profile.js	/^export const addExperience = (formData, history) => async (dispatch) => {$/;"	E
+history	src/actions/profile.js	/^export const createProfile = (formData, history, edit = false) => async ($/;"	E
+img	src/App.css	/^img {$/;"	t
+initialState	src/reducers/alert.js	/^const initialState = [];$/;"	A
+initialState	src/reducers/auth.js	/^const initialState = {$/;"	O
+initialState	src/reducers/profile.js	/^const initialState = {$/;"	O
+initialState	src/store.js	/^const initialState = {};$/;"	O
+instagram	src/components/profile-forms/CreateProfile.jsx	/^    instagram: "",$/;"	P
+instagram	src/components/profile-forms/EditProfile.jsx	/^    instagram: "",$/;"	P
+isAuthenticated	src/reducers/auth.js	/^  isAuthenticated: null,$/;"	P
+linkedin	src/components/profile-forms/CreateProfile.jsx	/^    linkedin: "",$/;"	P
+linkedin	src/components/profile-forms/EditProfile.jsx	/^    linkedin: "",$/;"	P
+loadUser	src/actions/auth.js	/^export const loadUser = () => async (dispatch) => {$/;"	E
+loading	src/reducers/auth.js	/^  loading: true,$/;"	P
+loading	src/reducers/profile.js	/^        loading: false,$/;"	P
+loading	src/reducers/profile.js	/^  loading: true,$/;"	P
+location	src/components/profile-forms/AddExperience.jsx	/^    location: "",$/;"	P
+location	src/components/profile-forms/CreateProfile.jsx	/^    location: "",$/;"	P
+location	src/components/profile-forms/EditProfile.jsx	/^    location: "",$/;"	P
+login	src/actions/auth.js	/^export const login = ({ email, password }) => async (dispatch) => {$/;"	E
+logout	src/actions/auth.js	/^export const logout = () => (dispatch) => {$/;"	E
+mapStateToProps	src/components/auth/Login.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/auth/Register.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/dashboard/Dashboard.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/layout/Alert.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/layout/Landing.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/layout/Navbar.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/profile-forms/EditProfile.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/profile/Profile.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/profiles/Profiles.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+mapStateToProps	src/components/routing/PrivateRoute.jsx	/^const mapStateToProps = (state) => ({$/;"	F
+middleware	src/store.js	/^const middleware = [thunk];$/;"	A
+name	src/components/auth/Register.jsx	/^    name: "",$/;"	P
+onChange	src/components/auth/Login.jsx	/^  const onChange = (e) =>$/;"	F
+onChange	src/components/auth/Register.jsx	/^  const onChange = (e) =>$/;"	F
+onChange	src/components/profile-forms/AddEducation.jsx	/^  const onChange = (e) =>$/;"	F
+onChange	src/components/profile-forms/AddExperience.jsx	/^  const onChange = (e) =>$/;"	F
+onChange	src/components/profile-forms/CreateProfile.jsx	/^  const onChange = (e) =>$/;"	F
+onChange	src/components/profile-forms/EditProfile.jsx	/^  const onChange = (e) =>$/;"	F
+onSubmit	src/components/auth/Login.jsx	/^  const onSubmit = async (e) => {$/;"	F
+onSubmit	src/components/auth/Register.jsx	/^  const onSubmit = async (e) => {$/;"	F
+onSubmit	src/components/profile-forms/CreateProfile.jsx	/^  const onSubmit = (e) => {$/;"	F
+onSubmit	src/components/profile-forms/EditProfile.jsx	/^  const onSubmit = (e) => {$/;"	F
+password	src/actions/auth.js	/^export const login = ({ email, password }) => async (dispatch) => {$/;"	E
+password	src/actions/auth.js	/^export const register = ({ name, email, password }) => async (dispatch) => {$/;"	E
+password	src/components/auth/Login.jsx	/^    password: "",$/;"	P
+password	src/components/auth/Register.jsx	/^    password: "",$/;"	P
+password2	src/components/auth/Register.jsx	/^    password2: "",$/;"	P
+payload	src/actions/profile.js	/^        payload: { msg: err.response.statusText, status: err.response.status },$/;"	P
+payload	src/actions/profile.js	/^      payload: { msg: err.response.statusText, status: err.response.status },$/;"	P
+profile	src/components/dashboard/Dashboard.jsx	/^  profile: { profile, loading },$/;"	P
+profile	src/components/profile-forms/EditProfile.jsx	/^  profile: { profile, loading },$/;"	P
+profile	src/components/profile/Profile.jsx	/^  profile: { profile, loading },$/;"	P
+profile	src/components/profile/ProfileTop.jsx	/^  profile: {$/;"	P
+profile	src/components/profiles/ProfileItem.jsx	/^  profile: {$/;"	P
+profile	src/reducers/profile.js	/^        profile: null,$/;"	P
+profile	src/reducers/profile.js	/^        profile: payload,$/;"	P
+profile	src/reducers/profile.js	/^  profile: null,$/;"	P
+profiles	src/reducers/profile.js	/^        profiles: payload,$/;"	P
+profiles	src/reducers/profile.js	/^  profiles: [],$/;"	P
+propTypes	src/components/auth/Login.jsx	/^Login.propTypes = {$/;"	P
+propTypes	src/components/auth/Register.jsx	/^Register.propTypes = {$/;"	P
+propTypes	src/components/dashboard/Dashboard.jsx	/^Dashboard.propTypes = {$/;"	P
+propTypes	src/components/dashboard/Education.jsx	/^Education.propTypes = {$/;"	P
+propTypes	src/components/dashboard/Experience.jsx	/^Experience.propTypes = {$/;"	P
+propTypes	src/components/layout/Alert.jsx	/^Alert.propTypes = {$/;"	P
+propTypes	src/components/layout/Landing.jsx	/^Landing.propTypes = {$/;"	P
+propTypes	src/components/layout/Navbar.jsx	/^Navbar.propTypes = {$/;"	P
+propTypes	src/components/profile-forms/AddEducation.jsx	/^AddEducation.propTypes = {$/;"	P
+propTypes	src/components/profile-forms/AddExperience.jsx	/^AddExperience.propTypes = {$/;"	P
+propTypes	src/components/profile-forms/CreateProfile.jsx	/^CreateProfile.propTypes = {$/;"	P
+propTypes	src/components/profile-forms/EditProfile.jsx	/^EditProfile.propTypes = {$/;"	P
+propTypes	src/components/profile/Profile.jsx	/^Profile.propTypes = {$/;"	P
+propTypes	src/components/profile/ProfileTop.jsx	/^ProfileTop.propTypes = {$/;"	P
+propTypes	src/components/profiles/ProfileItem.jsx	/^ProfileItem.propTypes = {$/;"	P
+propTypes	src/components/profiles/Profiles.jsx	/^Profiles.propTypes = {$/;"	P
+propTypes	src/components/routing/PrivateRoute.jsx	/^PrivateRoute.propTypes = {$/;"	P
+register	src/actions/auth.js	/^export const register = ({ name, email, password }) => async (dispatch) => {$/;"	E
+reportWebVitals	src/reportWebVitals.js	/^const reportWebVitals = onPerfEntry => {$/;"	F
+repos	src/reducers/profile.js	/^        repos: [],$/;"	P
+repos	src/reducers/profile.js	/^        repos: payload,$/;"	P
+repos	src/reducers/profile.js	/^  repos: [],$/;"	P
+root	public/index.html	/^    <div id="root"><\/div>$/;"	i
+school	src/components/profile-forms/AddEducation.jsx	/^    school: "",$/;"	P
+setAlert	src/actions/alert.js	/^export const setAlert = (msg, alertType, timeout = 5000) => (dispatch) => {$/;"	E
+setAuthToken	src/utils/setAuthToken.js	/^const setAuthToken = (token) => {$/;"	F
+skills	src/components/profile-forms/CreateProfile.jsx	/^    skills: "",$/;"	P
+skills	src/components/profile-forms/EditProfile.jsx	/^    skills: "",$/;"	P
+status	src/components/profile-forms/CreateProfile.jsx	/^    status: "",$/;"	P
+status	src/components/profile-forms/EditProfile.jsx	/^    status: "",$/;"	P
+timeout	src/actions/alert.js	/^export const setAlert = (msg, alertType, timeout = 5000) => (dispatch) => {$/;"	E
+title	src/components/profile-forms/AddExperience.jsx	/^    title: "",$/;"	P
+to	src/components/profile-forms/AddEducation.jsx	/^    to: "",$/;"	P
+to	src/components/profile-forms/AddExperience.jsx	/^    to: "",$/;"	P
+twitter	src/components/profile-forms/CreateProfile.jsx	/^    twitter: "",$/;"	P
+twitter	src/components/profile-forms/EditProfile.jsx	/^    twitter: "",$/;"	P
+type	src/actions/profile.js	/^        type: ACCOUNT_DELETED,$/;"	P
+type	src/actions/profile.js	/^        type: CLEAR_PROFILE,$/;"	P
+type	src/actions/profile.js	/^        type: PROFILE_ERROR,$/;"	P
+type	src/actions/profile.js	/^      type: GET_PROFILE,$/;"	P
+type	src/actions/profile.js	/^      type: GET_PROFILES,$/;"	P
+type	src/actions/profile.js	/^      type: GET_REPOS,$/;"	P
+type	src/actions/profile.js	/^      type: PROFILE_ERROR,$/;"	P
+type	src/actions/profile.js	/^      type: UPDATE_PROFILE,$/;"	P
+ul	src/App.css	/^ul {$/;"	t
+user	src/components/profile/ProfileTop.jsx	/^    user: { name, avatar },$/;"	P
+user	src/components/profiles/ProfileItem.jsx	/^    user: { _id, name, avatar },$/;"	P
+user	src/reducers/auth.js	/^  user: null,$/;"	P
+website	src/components/profile-forms/CreateProfile.jsx	/^    website: "",$/;"	P
+website	src/components/profile-forms/EditProfile.jsx	/^    website: "",$/;"	P
+youtube	src/components/profile-forms/CreateProfile.jsx	/^    youtube: "",$/;"	P
+youtube	src/components/profile-forms/EditProfile.jsx	/^    youtube: "",$/;"	P
